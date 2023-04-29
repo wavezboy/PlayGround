@@ -1,0 +1,16 @@
+{
+  "Example": [
+    {
+      "name": "abdul",
+      "car": "camry",
+      "key": "1233-4556-66788",
+      "id": 1
+    },
+    {
+      "name": "baddo",
+      "car": "benz",
+      "key": "1252-6002-2740",
+      "id": 2
+    }
+  ]
+}
