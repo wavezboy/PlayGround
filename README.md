@@ -1,3 +1,3 @@
-# PlayGround
+# Playground
 
-Playground is a compilation of my fun time solution to some general problems
+leetcode and Hackerank solutions 
