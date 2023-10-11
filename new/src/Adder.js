@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Adder() {
   function adder(a, b) {
     // creating an array with range (a, b)
@@ -17,6 +15,8 @@ export default function Adder() {
 
     return answer;
   }
+
+  adder(1, 200);
 
   return <div className="camel">{adder(1, 2000)}</div>;
 }
